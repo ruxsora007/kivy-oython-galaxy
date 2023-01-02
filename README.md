@@ -1,1 +1,1 @@
-# kivy-oython-galaxy
+# kivy-python-galaxy
